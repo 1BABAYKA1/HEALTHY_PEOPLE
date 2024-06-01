@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Здоровое поколение</string>
+    <string name="prompt_email">Почта</string>
+    <string name="prompt_about">Расскажите нам о себе</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="create_new">Нажмите для регистрации</string>
+    <string name="not_register">Уже зарегистрированы?</string>
+    <string name="name">Имя</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="register">Регистрация</string>
+    <string name="name_error">Пожалуйста, укажите как к Вам обращаться</string>
+    <string name="phone_error">Пожалуйста, введите свой номер телефона</string>
+    <string name="email_error">Пожалуйста, введите свою почту</string>
+    <string name="error_invalid_email">Некорректная почта</string>
+    <string name="password_error">Пожалуйста, введите свой пароль</string>
+    <string name="error_invalid_password">Пожалуйста, введите пароль, содержащий минимум 6 символов</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

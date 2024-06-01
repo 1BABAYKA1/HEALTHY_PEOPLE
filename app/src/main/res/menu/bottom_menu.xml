@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/uslugi_bottom1"
+        android:title="Услуги"
+        app:itemIconTint="#FFFFFF"
+        app:itemTextColor="#FFFFFF"
+        android:icon="@android:drawable/ic_dialog_map" />
+
+    <item android:id="@+id/menu_bottom1"
+        android:title="Меню"
+        app:itemIconTint="#FFFFFF"
+        app:itemTextColor="#FFFFFF"
+        android:icon="@drawable/baseline_menu_24"/>
+
+    <item android:id="@+id/profile_bottom1"
+        android:title="Профиль"
+        app:itemIconTint="#FFFFFF"
+        app:itemTextColor="#FFFFFF"
+        android:icon="@drawable/baseline_account_box_24" />
+
+</menu>
